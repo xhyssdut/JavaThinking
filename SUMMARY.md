@@ -1,5 +1,5 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [First Chapter](first-chapter.md)
+* [Java集合](first-chapter.md)
 
